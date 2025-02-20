@@ -6,5 +6,6 @@ ends with one of these letters: p, t, n
 
 (This should print out 18 words in total)
 """
-
-# YOUR CODE HERE
+bat = None
+cat = 3
+dog = 5
